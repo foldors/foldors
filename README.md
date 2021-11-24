@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @foldors
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning too many things to list
